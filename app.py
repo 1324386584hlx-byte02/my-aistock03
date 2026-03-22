@@ -10,7 +10,7 @@ import requests
 # ======================
 # 飞书推送配置（替换成你的Webhook）
 # ======================
-FEISHU_WEBHOOK_URL = "https://open.feishu.cn/open-apis/bot/v2/hook/你的WebhookKey"
+FEISHU_WEBHOOK_URL = "https://open.feishu.cn/open-apis/bot/v2/hook/b5162b51-57e3-4d9f-87ec-a97203261dda"
 
 def send_feishu(title, content):
     """飞书推送函数"""
