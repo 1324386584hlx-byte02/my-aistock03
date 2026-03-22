@@ -1,0 +1,7 @@
+streamlit
+pandas
+akshare
+xgboost
+scikit-learn
+matplotlib
+requests
